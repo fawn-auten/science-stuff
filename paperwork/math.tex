@@ -1,0 +1,67 @@
+\documentclass[]{article}
+\usepackage{amsmath}
+\usepackage{layout}
+
+\title{measuring the effectiveness of a proposed algorithm for converting image files into sounds on hearing participants \\(first rough draft)}
+\begin{document}
+\maketitle
+\section{abstract}
+here we present an algorithm to convert image files into audible tones. specifically for converting files stored in the .bmp file format into .wav sound files.
+along with a behavioral analysis into its effectiveness in aiding participants with associating specific sounds with colors
+\section{algorithm}
+Generally, uncompressed Bitmap files (Kirkby, bmp format) are organized in such a manner where 1 byte (able to represent numbers up to 255) 
+is used to store color values (asuming 24 bit color depth), specifically denoting the red, green, and blue light spectrums (often denoted as r,g, and b). 
+\\
+\begin{math}
+    C = \begin{pmatrix}
+            r & g & b
+        \end{pmatrix}
+\end{math}
+\\
+
+(describe wave format here find reference or else elma says no cock for a week)
+
+A constinant \begin{math} k \end{math} will be multiplied with each corisponding component of the color vector. 
+\begin{math} k \end{math} in itself, is a scaling factor that mainly exists to denote individual color
+values as distinct frequencies. 
+\\\\
+Next, \begin{math}  \overrightarrow{H} \end{math} , which is a vector of constinants that represent different base frequencies for the specific color spectrums
+\\\\
+\begin{math} 
+    \overrightarrow{H} = \begin{pmatrix}
+            H_1 & H_2 & H_3
+        \end{pmatrix}
+\end{math}\\
+\begin{math} h_1 \end{math} through \begin{math}h_3 \end{math} define respective baselines for audible tones  (in hz) to determine how the color will sound after being
+multiplied with a scaling factor
+Which brings us to the following equation, represented by function \overrightarrow{R}()
+\\
+\begin{math}
+    \overrightarrow{R}(\overrightarrow{C},\overrightarrow{H},k) = \overrightarrow{C}k + \overrightarrow{H}
+\end{math}
+\\\\
+\section{calibration?}
+For this study we will assign \begin{math} \overrightarrow{H} \end{math} and k with the following values
+\\\\
+\begin{math}
+    k = 3 \\
+    \overrightarrow{H} = \begin{pmatrix} 1200,2200,3200 \end{pmatrix}\\
+\end{math}
+\\\\
+Based on the results of controll participants in the study “Tone deafness: a new disconnection syndrome?.”(Loui, Psyche et al),
+non tonedeaf persons showed a minumum threshold of 3hz when it came to identifying unique tones. Hence 3 was identified to be an appropriate scaling factor 
+\\\\
+The values for \begin{math} \overrightarrow{H} \end{math} were determined from the results of the study "Exploring Pitch Perception Thresholds in Very Short Tones: 
+Minimum Tone Duration for Perception of Pitch in 2-Tone and 3-Tone Sequences." (Burton, Russell,104), that suggests that tones played at higher frequencies
+are much more decernable than tones played at lower frequencies(in a range from 250hz to 1050hz). Allthough the research paper did not go into specific detail on
+how well participants were able to discern frequencies above 1050hz, it could be assumed that ranges higher than 1050hz still retain better decernability over tones
+played at lower frequencies.
+
+\begin{thebibliography}{9}
+Kirkby , David. “Bmp Format.” Bitmap Format., University College London, users.cs.fiu.edu/~czhang/teaching/cop4225/project_files/bitmap_format.htm. Accessed 3 June 2024.
+Humes, Larry E. “Hearing Thresholds for Unscreened U.S. Adults: Data From the National Health and Nutrition Examination Survey, 2011–2012, 2015–2016, and 2017–2020.” Trends in Hearing, vol. 27, Mar. 2023, p. 23312165231162727. PubMed Central, https://doi.org/10.1177/23312165231162727.
+Burton, Russell. "Exploring Pitch Perception Thresholds in Very Short Tones: Minimum Tone Duration for Perception of Pitch in 2-Tone and 3-Tone Sequences." 2021. Thesis. digital.library.adelaide.edu.au, https://digital.library.adelaide.edu.au/dspace/handle/2440/134561
+Loui, Psyche et al. “Tone deafness: a new disconnection syndrome?.” The Journal of neuroscience : the official journal of the Society for Neuroscience vol. 29,33 (2009): 10215-20. doi:10.1523/JNEUROSCI.1701-09.2009
+\end{thebibliography}
+
+\end{document}

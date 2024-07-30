@@ -1,0 +1,3 @@
+/home/elma/Desktop/science stuff/CMakeFiles/sound_test.dir
+/home/elma/Desktop/science stuff/CMakeFiles/edit_cache.dir
+/home/elma/Desktop/science stuff/CMakeFiles/rebuild_cache.dir

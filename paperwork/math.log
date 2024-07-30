@@ -1,0 +1,359 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.6.3)  11 JUN 2024 01:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**math.tex
+(./math.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks17
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/layout.sty
+Package: layout 2021-03-10 v1.2e Show layout parameters
+\oneinch=\count271
+\cnt@paperwidth=\count272
+\cnt@paperheight=\count273
+\cnt@hoffset=\count274
+\cnt@voffset=\count275
+\cnt@textheight=\count276
+\cnt@textwidth=\count277
+\cnt@topmargin=\count278
+\cnt@oddsidemargin=\count279
+\cnt@evensidemargin=\count280
+\cnt@headheight=\count281
+\cnt@headsep=\count282
+\cnt@marginparsep=\count283
+\cnt@marginparwidth=\count284
+\cnt@marginparpush=\count285
+\cnt@footskip=\count286
+\fheight=\count287
+\ref@top=\count288
+\ref@hoffset=\count289
+\ref@voffset=\count290
+\ref@head=\count291
+\ref@body=\count292
+\ref@foot=\count293
+\ref@margin=\count294
+\ref@marginwidth=\count295
+\ref@marginpar=\count296
+\Interval=\count297
+\ExtraYPos=\count298
+\PositionX=\count299
+\PositionY=\count300
+\ArrowLength=\count301
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count302
+\l__pdf_internal_box=\box52
+)
+(./math.aux)
+\openout1 = `math.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+
+LaTeX Warning: No \author given.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--21
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 ...represented by function \overrightarrow{R}
+                                                  ()
+? 
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \begin{math}
+                 
+? 
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.41 \end{math}
+               
+? 
+
+! LaTeX Error: \begin{document} ended by \end{math}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{math}
+               
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.41 \end{math}
+               
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--43
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 44--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--59
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.61 ....fiu.edu/~czhang/teaching/cop4225/project_
+                                                  files/bitmap_format.htm. A...
+
+? 
+
+LaTeX Warning: Command \textquotedblleft invalid in math mode on input line 62.
+
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 62.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 62.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 62.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 62
+.
+
+
+LaTeX Warning: Command \textquotedblleft invalid in math mode on input line 64.
+
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 64
+.
+
+
+LaTeX Warning: Empty `thebibliography' environment on input line 65.
+
+
+! LaTeX Error: Command \end{thebibliography} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \end{thebibliography}
+                          
+? 
+
+LaTeX Warning: Empty `thebibliography' environment on input line 65.
+
+
+LaTeX Warning: Empty `thebibliography' environment on input line 65.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.65 \end{thebibliography}
+                          
+? 
+
+Overfull \hbox (370.00395pt too wide) in paragraph at lines 61--66
+\OT1/cmr/m/n/10 users.cs.fiu.edu/ czhang/teaching/cop4225/project$[]\OML/cmm/m/
+it/10 iles=bitmap[]ormat:htm:Accessed\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 June\OT1
+/cmr/m/n/10 2024\OML/cmm/m/it/10 :Humes; LarryE:\OMS/cmsy/m/n/10 n\OML/cmm/m/it
+/10 HearingThresholdsforUnscreenedU:S:Adults \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (481.87473pt too wide) in paragraph at lines 61--66
+\OML/cmm/m/it/10 DataFromtheNationalHealthandNutritionExaminationSurvey; \OT1/c
+mr/m/n/10 2011{2012\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2015{2016\OML/cmm/m/it/10
+ ; and\OT1/cmr/m/n/10 2017{2020\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 "\OML/cmm/m/it
+/10 TrendsinHearing; vol:\OT1/cmr/m/n/10 27\OML/cmm/m/it/10 ; Mar:\OT1/cmr/m/n/
+10 2023\OML/cmm/m/it/10 ; p:\OT1/cmr/m/n/10 23312165231162727\OML/cmm/m/it/10 :
+PubMedCentral; https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (167.61327pt too wide) in paragraph at lines 61--66
+\OML/cmm/m/it/10 ==doi:org=\OT1/cmr/m/n/10 10\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 
+1177\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 23312165231162727\OML/cmm/m/it/10 :Burton
+; Russell:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ExploringPitchPerceptionThresholdsi
+nVeryShortTones \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (242.22209pt too wide) in paragraph at lines 61--66
+\OML/cmm/m/it/10 MinimumToneDurationforPerceptionofPitchin\OT1/cmr/m/n/10 2 \OM
+S/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 Toneand\OT1/cmr/m/n/10 3 \OMS/cmsy/m/n/10 ^^
+@ \OML/cmm/m/it/10 ToneSequences:\OT1/cmr/m/n/10 "2021\OML/cmm/m/it/10 :Thesis:
+digital:library:adelaide:edu:au; https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (80.98589pt too wide) in paragraph at lines 61--66
+\OML/cmm/m/it/10 ==digital:library:adelaide:edu:au=dspace=handle=\OT1/cmr/m/n/1
+0 2440\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 134561\OML/cmm/m/it/10 Loui; Psycheetal
+:\OMS/cmsy/m/n/10 n\OML/cmm/m/it/10 Tonedeafness \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (221.14572pt too wide) in paragraph at lines 61--66
+\OML/cmm/m/it/10 anewdisconnectionsyndrome\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 :\O
+T1/cmr/m/n/10 "\OML/cmm/m/it/10 TheJournalofneuroscience \OT1/cmr/m/n/10 : \OML
+/cmm/m/it/10 theofficialjournaloftheSocietyforNeurosciencevol:\OT1/cmr/m/n/10 2
+9\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 33(2009) :
+ []
+
+[2] (./math.aux) ) 
+Here is how much of TeX's memory you used:
+ 1217 strings out of 480247
+ 18439 string characters out of 5896152
+ 314858 words of memory out of 5000000
+ 19211 multiletter control sequences out of 15000+600000
+ 474027 words of font info for 45 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 54i,14n,62p,328b,197s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on math.pdf (2 pages, 112857 bytes).
+PDF statistics:
+ 56 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
