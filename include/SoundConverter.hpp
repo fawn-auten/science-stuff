@@ -29,8 +29,11 @@ namespace snd{
 
         /**
          * @brief Populates the sound buffer using a function
-         * 
+         * @param frequencies
+         * @param pivot
          */
-        void populateBuffer(std::array<int16_t, 3>  frequencies);
+        void populateBuffer(std::array<int16_t, 3>  frequencies,
+                            std::array<int16_t, 3> pivot,
+                            int32_t sampleSpacer);
     };
 } // namespace exp
